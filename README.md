@@ -25,40 +25,56 @@ O projeto SOS Patas foi aprovado e apresentado Bragantec 2025 – Feira de Ciên
 ## 🖼️ Telas do projeto
 
 ### Tela 1 – Home:
-![Tela Home](imagens/imagens/img1.png)
+![Tela Home](imagens/img1.png)
 
 Tela inicial da plataforma.
 
 
 ### Tela 2 – Feed Automático:
-![Tela Feed](imagens/imagens/img2.png)
+![Tela Feed](imagens/img2.png)
 
 O feed automático mostra os últimos pets cadastrados que foram perdidos recentemente.
 
 
-### Tela 3 – Funcionalidade principal
-![Funcionalidade](imagens/imagens/img3.png)
+### Tela 3 – Funcionalidade principal:
+![Funcionalidade](imagens/img3.png)
 
-### Tela 4
-![Tela 4](imagens/imagens/img4.png)
+Apresenta as principais funcionalidades da plataforma.
 
-### Tela 5
-![Tela 5](imagens/imagens/img5.png)
+### Tela 4 - Feed Pets Perdidos:
+![Feed Perdidos](imagens/img4.png)
 
-### Tela 6
-![Tela 6](imagens/imagens/img6.png)
+Feed dos animais perdidos que foram publicados.
 
-### Tela 7
-![Tela 7](imagens/imagens/img7.png)
+### Tela 5- Feed Pets Encontrados:
+![Feed Encontrados](imagens/img5.png)
 
-### Tela 8
-![Tela 8](imagens/imagens/img8.png)
+Feed dos animais encontrados que foram publicados.
 
-### Tela 9
-![Tela 9](imagens/imagens/img9.png)
+### Tela 6 - Sobre os Criadores:
+![Criadores](imagens/img6.png)
 
-### Tela 10
-![Tela 10](imagens/imagens/img10.png)
+Falando sobre os criadores do projeto e os objetivos.
+
+### Tela 7 - Página do Login:
+![Login](imagens/img7.png)
+
+Página do login da plataforma. 
+
+### Tela 8 - Cadastro:
+![Cadastro](imagens/img8.png)
+
+Tela do cadastro do usuário caso não tenha conta.
+
+### Tela 9 - Filtro de Busca:
+![Filtro](imagens/img9.png)
+
+O filtro de busca permite personalizar sua pesquisa.
+
+### Tela 10 - Detalhe do Pet Cadastrado:
+![Tela 10](imagens/img10.png)
+
+Mostra os detalhes do pet perdido. 
 
 
 ## ⚠️ Observação
