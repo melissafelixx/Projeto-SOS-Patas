@@ -5,12 +5,12 @@ O **SOS Patas** é um site desenvolvido com o objetivo de ajudar na **localizaç
 
 O projeto foi desenvolvido em **grupo**, os autores são Melissa Felix, Valentina Alves e Gabriel Vinicius.
 
-> 🔧 **(Resultados:)**
+> 🔧 **Resultados:**
 
 O projeto SOS Patas foi aprovado e apresentado Bragantec 2025 – Feira de Ciências e Tecnologia do IFSP Câmpus Bragança Paulista, na Conict - Congresso de Inovação, Ciência e Tecnologia e na FECCIF - Feira Estadual de Ciência e Cultura do IFSP.
 
 ## 🎯 Objetivo do site
-> ✏️ **O objetivo do site é ajudar os usuários a encontrar seu pet perdido, nossa plataforma é simples e fácil de usar.**
+> ✏️ **O objetivo do site é ajudar os usuários a encontrar seus pets perdidos por meio de uma plataforma simples e fácil de usar.**
 
 ---
 
@@ -24,35 +24,41 @@ O projeto SOS Patas foi aprovado e apresentado Bragantec 2025 – Feira de Ciên
 
 ## 🖼️ Telas do projeto
 
-### Tela 1 – Home
-![Tela Home](imagens/img1.png)
+### Tela 1 – Home:
+![Tela Home](imagens/imagens/img1.png)
 
-### Tela 2 – Sobre
-![Tela Sobre](imagens/img2.png)
+Tela inicial da plataforma.
+
+
+### Tela 2 – Feed Automático:
+![Tela Feed](imagens/imagens/img2.png)
+
+O feed automático mostra os últimos pets cadastrados que foram perdidos recentemente.
+
 
 ### Tela 3 – Funcionalidade principal
-![Funcionalidade](imagens/img3.png)
+![Funcionalidade](imagens/imagens/img3.png)
 
 ### Tela 4
-![Tela 4](imagens/img4.png)
+![Tela 4](imagens/imagens/img4.png)
 
 ### Tela 5
-![Tela 5](imagens/img5.png)
+![Tela 5](imagens/imagens/img5.png)
 
 ### Tela 6
-![Tela 6](imagens/img6.png)
+![Tela 6](imagens/imagens/img6.png)
 
 ### Tela 7
-![Tela 7](imagens/img7.png)
+![Tela 7](imagens/imagens/img7.png)
 
 ### Tela 8
-![Tela 8](imagens/img8.png)
+![Tela 8](imagens/imagens/img8.png)
 
 ### Tela 9
-![Tela 9](imagens/img9.png)
+![Tela 9](imagens/imagens/img9.png)
 
 ### Tela 10
-![Tela 10](imagens/img10.png)
+![Tela 10](imagens/imagens/img10.png)
 
 
 ## ⚠️ Observação
