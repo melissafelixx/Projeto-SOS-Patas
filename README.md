@@ -25,34 +25,34 @@ O projeto SOS Patas foi aprovado e apresentado Bragantec 2025 – Feira de Ciên
 ## 🖼️ Telas do projeto
 
 ### Tela 1 – Home
-![Tela Home](imagens/inicio 1.png)
+![Tela Home](imagens/img1.png)
 
 ### Tela 2 – Sobre
-![Tela Sobre](imagens/foto2.png)
+![Tela Sobre](imagens/img2.png)
 
 ### Tela 3 – Funcionalidade principal
-![Funcionalidade](imagens/foto3.png)
+![Funcionalidade](imagens/img3.png)
 
 ### Tela 4
-![Tela 4](imagens/foto4.png)
+![Tela 4](imagens/img4.png)
 
 ### Tela 5
-![Tela 5](imagens/foto5.png)
+![Tela 5](imagens/img5.png)
 
 ### Tela 6
-![Tela 6](imagens/foto6.png)
+![Tela 6](imagens/img6.png)
 
 ### Tela 7
-![Tela 7](imagens/foto7.png)
+![Tela 7](imagens/img7.png)
 
 ### Tela 8
-![Tela 8](imagens/foto8.png)
+![Tela 8](imagens/img8.png)
 
 ### Tela 9
-![Tela 9](imagens/foto9.png)
+![Tela 9](imagens/img9.png)
 
 ### Tela 10
-![Tela 10](imagens/foto10.png)
+![Tela 10](imagens/img10.png)
 
 
 ## ⚠️ Observação
