@@ -79,7 +79,7 @@ Mostra os detalhes do pet perdido.
 
 ## ⚠️ Observação
 O código-fonte não está disponível neste repositório, pois o projeto foi desenvolvido em ambiente **WordPress compartilhado**, em trabalho colaborativo.
-Link do nosso projeto: https://sospatas.site/
+Link do nosso projeto: https://sospatas.site/ (Desativado temporariamente)
 
 ## 📬 Contato
 > ✏️ **felixsantosmelissa@gmail.com**
