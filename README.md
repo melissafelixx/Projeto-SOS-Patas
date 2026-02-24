@@ -1,5 +1,4 @@
 # 🐾 SOS Patas
-![Tela Home](img.jpeg)
 
 ## 📌 Sobre o projeto
 O **SOS Patas** é um site desenvolvido com o objetivo de ajudar na **localização de animais perdidos**, facilitando a divulgação de informações e o contato entre tutores e a comunidade.
